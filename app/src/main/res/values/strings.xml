@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">chapter2_2</string>
+    <string name="morning_text">MORNING</string>
+    <string name="afternoon_text">AFTERNOON</string>
+    <string name="evening_text">EVENING</string>
+    <string name="goodmorning_text">Good morning!</string>
+    <string name="goodafternoon_text">Good afternoon!</string>
+    <string name="goodevening_text">Good evening!</string>
+</resources>

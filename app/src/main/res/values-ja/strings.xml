@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="goodmorning_text">おはよう</string>
+    <string name="goodafternoon_text">こんにちは</string>
+    <string name="goodevening_text">こんばんは</string>
+    <string name="morning_text">朝</string>
+    <string name="afternoon_text">昼</string>
+    <string name="evening_text">晩</string>
+</resources>
